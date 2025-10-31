@@ -1,37 +1,39 @@
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#06b6d4;">Óscar Rovira</span></h1>
+
+<h1 align="center">👋 ¡Hi! I'm <span style="color:#06b6d4;">Óscar Rovira</span></h1>
 
 <p align="center">
-  🎓 Estudiante del <strong>Grado Superior en Desarrollo de Aplicaciones Web (DAW)</strong><br>
+  🎓 Student of the Higher Level Vocational Training in Web Application Development (DAW)</strong><br><br>
 </p>
+<div align="center">
+<img src="https://i.pinimg.com/originals/23/1f/5b/231f5be3d94049ebfbddde51d8272030.gif" length="700" style="border-radius:50%;" alt="Foto de [Tu Nombre]" align="center" />
+</div><br><br>
 
----
-
-<h2>🚀 Sobre mí</h2>
+<h2>🚀 About me</h2>
 
 <p>
-Soy estudiante de DAW enfocado en aprender tecnologías modernas para el desarrollo web.  
-Me interesa tanto el <strong>front-end</strong> como el <strong>back-end</strong>, y disfruto crear proyectos que me ayuden a mejorar como desarrollador.
+I am a DAW student focused on learning modern technologies for web development.
+I'm interested in both <strong>front-end</strong> and <strong>back-end</strong>, and I enjoy creating projects that help me improve as a developer.
 </p>
 
-<h3>🧰 Tecnologías y herramientas</h3>
+<h3>🧰 Technologies and tools</h3>
 <ul>
   <li><strong>Front-end:</strong> HTML, CSS, JavaScript </li>
   <li><strong>Back-end:</strong> MySQL </li>
-  <li><strong>Herramientas:</strong> Git, GitHub </li>
+  <li><strong>Tools:</strong> Git, GitHub </li>
 </ul>
 
 ---
 
-<h2>🎯 Objetivos</h2>
+<h2>🎯 Goals</h2>
 
 <ul>
-  <li>Mejorar mis habilidades como desarrollador full-stack.</li>
-  <li>Crear un portafolio sólido que muestre mi progreso.</li>
+  <li>Improve my skills as a full-stack developer.</li>
+  <li>Create a solid portfolio that showcases my progress.</li>
 </ul>
 
 ---
 
-<h2>📫 Contacto</h2>
+<h2>📫 Contact</h2>
 
 <ul>
   <li><strong>Email:</strong> <a href="mailto:tuemail@ejemplo.com">roviraoscar07@gmail.com</a></li>
