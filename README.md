@@ -36,8 +36,7 @@ I'm interested in both <strong>front-end</strong> and <strong>back-end</strong>,
 <h2>📫 Contact</h2>
 
 <ul>
-  <li><strong>Email:</strong> <a href="mailto:tuemail@ejemplo.com">roviraoscar07@gmail.com</a></li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/TuUsuario" target="_blank">o-rovira</a></li>
+  <li><strong>Email:</strong> <a href="mailto:roviraoscar07@gmail.com">roviraoscar07@gmail.com</a></li>
   <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/tu-perfil" target="_blank">tu-perfil</a></li>
 </ul>
 
